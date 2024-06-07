@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#03045e</color>
+    <color name="textPrimary">#ffffff</color>
+
+    <color name="landBg">#ffffff</color>
+    <color name="landTextPrimary">#03045e</color>
+</resources>

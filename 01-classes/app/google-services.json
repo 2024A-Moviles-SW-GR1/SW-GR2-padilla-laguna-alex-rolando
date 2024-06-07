@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648115867759",
+    "project_id": "arpl-swgr1-2024a",
+    "storage_bucket": "arpl-swgr1-2024a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648115867759:android:18152597d1033d42d53d9a",
+        "android_client_info": {
+          "package_name": "com.example.a2024aswgr1arpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU17Vwyt6zRo1v_yXxAbFMsEW0pUmnhng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
