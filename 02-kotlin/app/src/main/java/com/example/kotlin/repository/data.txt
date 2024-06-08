@@ -1,6 +1,0 @@
-1,Tesla 1
-1,Model X,Auto conducido por inteligencia artificial
-2,Turbo Truck,Camion futurista
-2,Microsoft 2
-3,Copilot X,Inteligencia Artificial para la suite de Office
-4,Microsoft Word,Aplicacion para escribir documentos

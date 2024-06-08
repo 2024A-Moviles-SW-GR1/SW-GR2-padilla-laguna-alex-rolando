@@ -9,7 +9,7 @@ class CompanyRepository() {
     val companies: MutableList<Company> = mutableListOf()
 
     init {
-        loadFromFile("./data.txt")
+        loadFromFile("./app/sampledata/data.txt")
     }
 
     fun createProject(companyId: Int, project: Project) {
@@ -39,6 +39,9 @@ class CompanyRepository() {
 
     private fun loadFromFile(filePath: String) {
         val file = File(filePath)
+
+        println("Current Working Directory: ${System.getProperty("user.dir")}")
+
         var currentCompany: Company? = null
 
         file.forEachLine { line ->

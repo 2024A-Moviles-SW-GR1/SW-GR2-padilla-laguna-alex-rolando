@@ -1,0 +1,15 @@
+1,Tesla
+1,Model X,Auto conducido por inteligencia artificial
+1,Turbo Truck,Camión futurista
+
+2,Microsoft
+2,Copilot X,Inteligencia Artificial para la suite de Office
+2,Microsoft Word,Aplicación para escribir documentos
+
+3,Apple
+3,iPhone,Smartphone con funciones avanzadas
+3,iPad,Dispositivo de tableta para productividad y entretenimiento
+
+4,Google
+4,Google Search,Motor de búsqueda popular
+4,Google Maps,Servicio de navegación y mapas
